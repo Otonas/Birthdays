@@ -1,7 +1,7 @@
 {
-  "name": "confusion",
+  "name": "birthdays",
   "version": "1.0.0",
-  "description": "This is a website for Ristorante Con Fusion",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
